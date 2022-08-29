@@ -76,7 +76,7 @@
 -> Clonar el repositorio: gitclone __URL__
 -> Subir al directorio del repositorio y crear o copiar el archivo que 
    vamos a subir a la nube
--> Añadir: igt add __archivo__
+-> Añadir: git add __archivo__
 -> Descripción: git commit -m "Manual UNIX/VI/GIT"
 -> Subirlo: git push
 
