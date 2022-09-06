@@ -73,7 +73,7 @@
 
 -> Entrar en su cuenta en github.com
 -> Crear un repositorio en "Paradigmas de Programación" Terminal
--> Clonar el repositorio: gitclone __URL__
+-> Clonar el repositorio: git clone __URL__
 -> Subir al directorio del repositorio y crear o copiar el archivo que 
    vamos a subir a la nube
 -> Añadir: git add __archivo__
